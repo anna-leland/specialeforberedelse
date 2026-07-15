@@ -1,4 +1,4 @@
-# Speciale-forberedende forløb hos OS2 (2026)
+# Specialeforberedende forløb hos OS2 (2026)
 
 Dette repository dokumenterer mit specialeforberedende forløb hos OS2 som en del af kandidatuddannelsen i Informationsvidenskab på Aarhus Universitet.
 
